@@ -24,4 +24,8 @@ npm --version
 
 ## To Test:
 1. Migrate the contracts in the truffle development blockchain
-2. `truffle test` or `test` in the truffle development console 
+2. `truffle test` or `test` in the truffle development console
+ 
+## License
+ 
+This code is licensed under the MIT License. 
